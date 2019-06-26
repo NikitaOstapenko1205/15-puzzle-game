@@ -4,7 +4,7 @@
 # To start:
 
   - Open index.html from directory "dist" in your browser;
-  - Or write command: 'make install' and then 'make server' and play on your http://localhost:8080/;
+  - Or write command: 'npm run install' and then 'npm run server' and play on your http://localhost:8080/;
 
 
 # Rules: 
