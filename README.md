@@ -3,8 +3,8 @@
 
 # To start:
 
-  - Open index.html from directory "dist" in your browser;
-  - Or write command: 'npm run install' and then 'npm run server' and play on your http://localhost:8080/;
+  - Open index.html from directory 'dist' in your browser;
+  - Or write command: 'npm install' and then 'npm run server' and play on your http://localhost:8080/;
 
 
 # Rules: 
